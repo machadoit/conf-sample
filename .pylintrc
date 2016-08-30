@@ -1,0 +1,8 @@
+[MESSAGES CONTROL]
+enable=all
+disable=missing-docstring
+
+[FORMAT]
+max-line-length=85
+single-line-if-stmt=yes
+indent-string='  '

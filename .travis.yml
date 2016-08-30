@@ -1,0 +1,6 @@
+language: python
+script:
+ - python main.py
+after_success:
+ - python -m pylint --reports=n main.py
+ 
