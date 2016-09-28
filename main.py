@@ -1,5 +1,7 @@
 #!/usr/bin/env python2
 
+print('ola')
+
 # SHOULD trigger 'Line too long'
 # SHOULD trigger 'Invalid constant name'
 this_is_an_intentionally_long_name_to_trigger_a_line_too_long_message_from_pylint = None
