@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 
 print('ola')
+print('adeus')
 
 # SHOULD trigger 'Line too long'
 # SHOULD trigger 'Invalid constant name'
